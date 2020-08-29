@@ -1,5 +1,5 @@
 
-export cont firebaseConfig = {
+export const firebaseConfig = {
     apiKey: "AIzaSyDbfhcw5G4u2FGEh7BIXsZ2mIH7WZkdzKo",
     authDomain: "reactivapp-48b0e.firebaseapp.com",
     databaseURL: "https://reactivapp-48b0e.firebaseio.com",

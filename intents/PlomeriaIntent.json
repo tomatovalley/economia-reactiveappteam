@@ -1,0 +1,94 @@
+{
+  "id": "01511419-f046-4fac-bc22-cb7b118c51ba",
+  "name": "PlomeriaIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d44f08dc-bea5-47f2-b12e-aac45969f9a2",
+          "name": "jobs",
+          "required": true,
+          "dataType": "@Jobs",
+          "value": "$jobs",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Carnalito cual es tu problema exactamente para saber a que primo le marco"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "716e0aa7-7bcc-42ae-b3a2-1f7e618e8126",
+          "name": "unit-currency",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$unit-currency",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Con cuanta plata cuentas carnal? a ver a que primo plomero le hablo para que se eche la chamba"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "676157a7-0078-43c0-8851-e0b9c43bd01b",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Super bien carnalito, para enviarte toda la info, ocupo un correo electronico, me lo pasas?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Carnal, te envio la info de una, checala mijo y te pones en contacto , ten un excelente dia compa."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

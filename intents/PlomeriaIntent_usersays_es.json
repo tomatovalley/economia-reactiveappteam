@@ -1,0 +1,231 @@
+[
+  {
+    "id": "b0d591ce-4581-44bc-895c-00599f533883",
+    "data": [
+      {
+        "text": "claro, es ",
+        "userDefined": false
+      },
+      {
+        "text": "google@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3e7e92ac-d377-4b9b-9fde-f9d904fa6903",
+    "data": [
+      {
+        "text": "Mi correo es ",
+        "userDefined": false
+      },
+      {
+        "text": "diego@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8a64e628-023a-43f0-8754-94afc85cf6ee",
+    "data": [
+      {
+        "text": "Estoy en problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3f54938f-b557-43d6-a2de-4c8707e58ad6",
+    "data": [
+      {
+        "text": "Sabes donde puedo encontrar a ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plomero",
+        "meta": "@Jobs",
+        "alias": "jobs",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6df52d2b-2f15-43a2-902f-9f611ccc4a5b",
+    "data": [
+      {
+        "text": "parece que estoy en problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "32a54c92-9952-415d-81dc-0cc8bb0c57c0",
+    "data": [
+      {
+        "text": "Solo traigo ",
+        "userDefined": false
+      },
+      {
+        "text": "200 pesos",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "390cd21a-7d7a-48ef-a160-c4fc6c8c59fc",
+    "data": [
+      {
+        "text": "Tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "500 pesos",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "32088ab0-7a0c-4a25-9a93-eec75f131ec9",
+    "data": [
+      {
+        "text": "No sale ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " del llave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4ff79e4a-fab2-4ae7-8671-6e16932d7237",
+    "data": [
+      {
+        "text": "Hay ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fuga de agua",
+        "meta": "@Jobs",
+        "alias": "jobs",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " casa!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6e43104d-56d8-4e89-a58e-af05a84dfa28",
+    "data": [
+      {
+        "text": "Necesito arreglar la ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberia",
+        "meta": "@Jobs",
+        "alias": "jobs",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

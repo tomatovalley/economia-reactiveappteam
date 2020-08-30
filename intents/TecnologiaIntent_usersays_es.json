@@ -1,0 +1,497 @@
+[
+  {
+    "id": "30e0aec3-835b-442f-a2e3-736c1eaed375",
+    "data": [
+      {
+        "text": "necesito una ",
+        "userDefined": false
+      },
+      {
+        "text": "web",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "936cd89b-e365-42e0-b51a-314cbf51dc2d",
+    "data": [
+      {
+        "text": "necesito una ",
+        "userDefined": false
+      },
+      {
+        "text": "app",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "37185d15-d447-4792-a49b-88e6d3face11",
+    "data": [
+      {
+        "text": "Estoy en problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "49e3a275-1cb8-4335-9fbb-db0630b1a2e0",
+    "data": [
+      {
+        "text": "el presupuesto es de  ",
+        "userDefined": false
+      },
+      {
+        "text": "100 pesos",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "96792187-bdc3-4c78-8655-4b494fe9be65",
+    "data": [
+      {
+        "text": "mi presupuesto es de ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 pesos",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d7bf7a0b-06ee-49cf-84b0-3ec8441a3c28",
+    "data": [
+      {
+        "text": "con presupuesto de ",
+        "userDefined": false
+      },
+      {
+        "text": "10000 pesos",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c42384a0-2998-4e85-b4c9-410d6cc2d85a",
+    "data": [
+      {
+        "text": "envía a la dirección ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "096fb208-d8d0-4cc8-99a0-8257393f9aee",
+    "data": [
+      {
+        "text": "a la dirección ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b223c8db-8589-424a-83cf-ece0e0decdc8",
+    "data": [
+      {
+        "text": "mi correo ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e4d66eb1-e44a-4594-9fee-7aa4d72debf2",
+    "data": [
+      {
+        "text": "enviar ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "130fb153-51d5-4088-b3ef-6d655f3d60aa",
+    "data": [
+      {
+        "text": "enviar al ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "51667036-3ef8-4bb2-86d6-337aa61cb3e1",
+    "data": [
+      {
+        "text": "al ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "859c1f22-71a2-457c-8998-208264e5d9fb",
+    "data": [
+      {
+        "text": "Al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "30116b1b-8fc7-4ca6-8a02-34af5d5ecd73",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pagina web",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c6b677d9-fe9b-4c1b-a9d2-b59220a02b3d",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "pagina web",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "44be0c7f-a20d-482e-8acf-70d1b1ab1993",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " correo es ",
+        "userDefined": false
+      },
+      {
+        "text": "juan@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f7b4668a-4b49-4a03-b101-d6da406377c2",
+    "data": [
+      {
+        "text": "me llamo ",
+        "userDefined": false
+      },
+      {
+        "text": "juan",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "14be2bc9-f615-4545-818a-87d98a17ce17",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juan",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e41ef7e6-ff68-4134-8139-89a21c9e226a",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pagina",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7d96d41a-ff63-4483-986f-b06f097016e0",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "app web",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ade202b1-24db-4c4b-aa22-1b182db0d178",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "app",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2eb1e8a3-ff51-4274-8a44-cfdf32107c32",
+    "data": [
+      {
+        "text": "Hola necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "pagina web",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c8ff142e-4fe8-4b87-94cf-64d8c16dd475",
+    "data": [
+      {
+        "text": "Hola quiero una ",
+        "userDefined": false
+      },
+      {
+        "text": "pagina web",
+        "meta": "@Jobs",
+        "alias": "Jobs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

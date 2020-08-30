@@ -1,0 +1,9 @@
+{
+  "id": "a5b26cca-e1bf-4919-abcf-1e6990ea0368",
+  "name": "sys.language",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

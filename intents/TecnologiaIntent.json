@@ -1,0 +1,203 @@
+{
+  "id": "8b9502cd-c425-472b-8aca-327552b7a9c6",
+  "name": "TecnologiaIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d6f0752-d51e-4374-8185-a1073ca47ca9",
+          "name": "given-name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$given-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Claro para comenzar tu búsqueda, ¿Me podrías dar tu nombre?"
+            },
+            {
+              "lang": "es",
+              "value": "Excelente, ¿Cuál es tu nombre?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien. ¿Cuál es tu nombre?"
+            },
+            {
+              "lang": "es",
+              "value": "Perfecto, ¿Cuál es tu nombre?"
+            },
+            {
+              "lang": "es",
+              "value": "Gracias, ¿Cuál es tu nombre?"
+            },
+            {
+              "lang": "es",
+              "value": "Gracias, ,¿Me podrías dar tu nombre?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c48c0328-0799-4b60-b6c7-d3d1e3ffa0cd",
+          "name": "Jobs",
+          "required": true,
+          "dataType": "@Jobs",
+          "value": "$Jobs",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Claro, ¿Qué desea buscar?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Qué desea buscar?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Qué busca?"
+            },
+            {
+              "lang": "es",
+              "value": "Claro, ¿Qué buscar?"
+            },
+            {
+              "lang": "es",
+              "value": "Claro, ¿Qué necesita?"
+            },
+            {
+              "lang": "es",
+              "value": "muy bien, ¿Qué necesita?"
+            },
+            {
+              "lang": "es",
+              "value": "Claro, ¿Qué trabajo necesita?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Qué trabajo necesita?"
+            },
+            {
+              "lang": "es",
+              "value": "Perfecto, ¿Qué trabajo necesita?"
+            },
+            {
+              "lang": "es",
+              "value": "Perfecto, ¿Qué desea buscar?"
+            },
+            {
+              "lang": "es",
+              "value": "Perfecto, ¿Qué necesita?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "79d90148-a518-4132-bd75-e6826edf38b1",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Perfecto, nos podrías proporcionar tu correo electrónico para enviarte información?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, nos podrías proporcionar tu correo electrónico para enviarte información?"
+            },
+            {
+              "lang": "es",
+              "value": "Excelente, nos podrías proporcionar tu correo electrónico para enviarte información?"
+            },
+            {
+              "lang": "es",
+              "value": "Perfecto, A que correo electrónico de enviamos la información?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, A que correo electrónico de enviamos la información?"
+            },
+            {
+              "lang": "es",
+              "value": "Excelente, A que correo electrónico de enviamos la información?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "82ab2fd5-51cb-4b5e-8544-1d8a1439d295",
+          "name": "unit-currency",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$unit-currency",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Buscaremos la mejor opción para tu presupuesto"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, Buscaremos la mejor opción para tu presupuesto"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Muchas gracias!, en unos momentos te llegara un correo con información de trabajadores que este adaptada a tu presupuesto, ¡Saludos!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -12,7 +12,7 @@ Actions en Google es una plataforma para desarrolladores que te permite crear so
 Para este chatbot se utilizo:
 
 * Una cuenta de [Google](https://accounts.google.com/signup/v2/webcreateaccount?hl=en-GB&flowName=GlifWebSignIn&flowEntry=SignUp).
-* DialogFlow [DialogFlow](https://dialogflow.com/).
+* DialogFlow [DialogFlow](https://dialogflow.cloud.google.com/).
 
 
 #### Demo Final   

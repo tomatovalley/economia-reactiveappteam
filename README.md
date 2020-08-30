@@ -7,6 +7,9 @@
 Reactivapp Assistance es tu asistente para buscar personas que necesites de sus servicios, Reactivapp ayuda a vincular clientes con gente que ofrezca servicios como por ejemplo servicios de desarrollo de software, servicios de plomeria entre otros mas se iran incrementando.  [Imagen Reactivapp Assistance](https://emarketcerglez.s3.amazonaws.com/reactapp.gif).
 
 Actions en Google es una plataforma para desarrolladores que te permite crear software para ampliar la funcionalidad de Google Assistant, el asistente personal virtual de Google, en más de 500 millones de dispositivos, incluidos altavoces inteligentes, teléfonos, automóviles, televisores, auriculares y más.
+### Integrantes: 
+
+* Juan Pablo Cervantes Gonzalez
 
 ### Herramientas
 Para este chatbot se utilizo:

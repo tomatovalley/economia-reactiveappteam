@@ -1,5 +1,6 @@
 {
   "expo": {
+<<<<<<< Updated upstream
     "name": "Reactivapp",
     "slug": "Reactivapp",
     "version": "1.0.0",
@@ -9,6 +10,24 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+=======
+    "name": "rn-material-kit-free",
+    "description": "React Native - Material Kit Free",
+    "slug": "rn-material-kit-free",
+    "privacy": "unlisted",
+    "sdkVersion": "37.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.6.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6C24AA"
+>>>>>>> Stashed changes
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -18,9 +37,12 @@
     ],
     "ios": {
       "supportsTablet": true
+<<<<<<< Updated upstream
     },
     "web": {
       "favicon": "./assets/favicon.png"
+=======
+>>>>>>> Stashed changes
     }
   }
 }

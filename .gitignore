@@ -1,6 +1,7 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
+<<<<<<< Updated upstream
 *.jks
 *.p8
 *.p12
@@ -11,3 +12,11 @@ web-build/
 
 # macOS
 .DS_Store
+=======
+package-lock.json
+yarn.lock
+*.jks
+*.p12
+*.key
+*.mobileprovision
+>>>>>>> Stashed changes
